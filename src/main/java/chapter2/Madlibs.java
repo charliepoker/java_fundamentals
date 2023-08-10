@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Madlibs {
 
-    public static void main (String arg[]){
+    public static void main (String args[]){
 
 //        1. Ask the user for the season of the yr
         System.out.println("What is the season of the year?");
